@@ -1,0 +1,23 @@
+.nav-extra ul {
+    display: flex;
+    gap: 3rem;
+    list-style: none;
+
+}
+
+.img-slide img {
+    height: 400px;
+}
+.img-slide {
+
+    color: black;
+}
+.video-container video {
+        width: 100%;
+        border-radius: 2rem;
+}
+
+
+
+
+  
